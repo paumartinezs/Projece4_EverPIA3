@@ -37,4 +37,12 @@ ssh usuari@IP
 ```
 <img width="693" height="579" alt="image" src="https://github.com/user-attachments/assets/ac8c4301-a259-4a75-ad1b-f3de10986ec1" />
 
+### Comprova que es treballa igual que en la maquina de ubunut server
+
+``` bash
+hostname
+```
+
+<img width="670" height="507" alt="image" src="https://github.com/user-attachments/assets/ed9bdc30-aad3-463c-a498-61178c0564c9" />
+
 
