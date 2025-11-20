@@ -17,6 +17,12 @@ sudo apt install ssh
 
 <img width="814" height="191" alt="image" src="https://github.com/user-attachments/assets/c7416144-b3a1-422b-a90e-25c86c9440b1" />
 
+### Guardem la configuració del netplan
+
+``` bash
+sudo netplan apply
+```
+
 ### Per comprovar les IPs en linux pots utilitzar aquestes comandes
 
 ``` bash
