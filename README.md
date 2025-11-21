@@ -1,10 +1,21 @@
 # Projece4_EverPIA3
 
----
-
-  - [Tasca01](Tasca01)
+  ### - [Tasca01](Tasca01)
   - [Tasca02](Tasca02)
   - [Tasca03](Tasca03)
+  - [Tasca04](Tasca04)
+  - [Tasca05](Tasca05)
+  - [Tasca06](Tasca06)
+  - [Tasca07](Tasca07)
+  - [Tasca08](Tasca08)
+  - [Tasca09](Tasca09)
+  - [Tasca10](Tasca10)
+  - [Tasca11](Tasca11)
+  - [Tasca12](Tasca12)
+  - [Tasca13](Tasca13)
+  - [Tasca14](Tasca14)
+  - [Tasca15](Tasca15)
+  - [Tasca16](Tasca16)
 
 ---
 
