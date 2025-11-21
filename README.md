@@ -76,4 +76,3 @@ Aquest projecte resumeix i connecta tot el que s’ha treballat al llarg del cur
    - [Tasca16](Tasca16)
 
     
-I un dia, sense adonar-te’n, descobreixes que ja no ets el mateix júnior que va entrar per la porta amb por i il·lusió. Ara tens eines, criteri, documentació pròpia i una manera de mirar els problemes que només es guanya treballant molt i en silenci.
