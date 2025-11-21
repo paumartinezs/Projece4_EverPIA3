@@ -36,3 +36,7 @@ Usa com a referència dels punts a documentar les activitats que s’indiquen al
 Penseu que el pròxim tècnic que s'incorpori dependrà directament de la vostra feina per poder ser operatiu des del primer dia.
 
 **Comencem la PoC.**
+
+al arxiu [solucio.md](solucio.md) hi ha la solució de la tasca 05
+
+Torna al enunciat READ
