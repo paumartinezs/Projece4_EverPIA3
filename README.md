@@ -1,8 +1,25 @@
 # Projece4_EverPIA3
 
+##  Tasques a desenvolupar
 
+   - [Tasca01](Tasca01)
+   - [Tasca02](Tasca02)
+   - [Tasca03](Tasca03)
+   - [Tasca04](Tasca04)
+   - [Tasca05](Tasca05)
+   - [Tasca06](Tasca06)
+   - [Tasca07](Tasca07)
+   - [Tasca08](Tasca08)
+   - [Tasca09](Tasca09)
+   - [Tasca10](Tasca10)
+   - [Tasca11](Tasca11)
+   - [Tasca12](Tasca12)
+   - [Tasca13](Tasca13)
+   - [Tasca14](Tasca14)
+   - [Tasca15](Tasca15)
+   - [Tasca16](Tasca16)
 
-
+    
 # Descripció del projecte
 
 Després de setmanes immersos en el ritme frenètic, desordenat i sempre sorprenent d’una consultora tecnològica, arribem al capítol final de la trilogia **EverPia**. És un moment especial: una barreja d’emoció, maduresa i aquella sensació clara que un cicle es tanca… i un altre està a punt d’obrir-se.
@@ -56,23 +73,3 @@ Aquest projecte resumeix i connecta tot el que s’ha treballat al llarg del cur
 
 ---
 
-##  Tasques a desenvolupar
-
-   - [Tasca01](Tasca01)
-   - [Tasca02](Tasca02)
-   - [Tasca03](Tasca03)
-   - [Tasca04](Tasca04)
-   - [Tasca05](Tasca05)
-   - [Tasca06](Tasca06)
-   - [Tasca07](Tasca07)
-   - [Tasca08](Tasca08)
-   - [Tasca09](Tasca09)
-   - [Tasca10](Tasca10)
-   - [Tasca11](Tasca11)
-   - [Tasca12](Tasca12)
-   - [Tasca13](Tasca13)
-   - [Tasca14](Tasca14)
-   - [Tasca15](Tasca15)
-   - [Tasca16](Tasca16)
-
-    
