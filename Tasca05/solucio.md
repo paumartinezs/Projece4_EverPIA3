@@ -71,9 +71,10 @@ Sudo nano /etc/ssh/sshd_config
 ### Afegeix aixo a l'arxiu de configuració
 
 ``` bash
-AllowUsers usuari
+AllowUsers "usuari"
 ```
-<img width="915" height="801" alt="image" src="https://github.com/user-attachments/assets/464c0364-2f20-44e0-96d6-f6d7b88c0a57" />
+<img width="1042" height="762" alt="image" src="https://github.com/user-attachments/assets/b7136124-04a8-45c5-a450-331de89516bd" />
+
 
 ### Ara fes un login en local amb el usuari root
 
