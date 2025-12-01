@@ -224,4 +224,18 @@ Ssh -D 9876 usuari@192.168.56.102
 
 <img width="391" height="428" alt="image" src="https://github.com/user-attachments/assets/98907f7a-5b77-4bff-920b-4d2bda72feba" />
 
+###  Per ultim, instal·la "WireShark" per confirmar que el tunel del nostre servidor SSH funciona correctament.
 
+``` bash
+winget install wireshark
+```
+
+### Entra a Wireshark - Ethernet2 i busca ssh
+
+<img width="1020" height="765" alt="image" src="https://github.com/user-attachments/assets/c744904b-c129-499f-8896-5b81d4ba3b4b" />
+
+---
+
+[Torna a l'enunciat](README.md)
+
+[Torna a la pagina principal](../README.md)
