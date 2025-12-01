@@ -141,5 +141,17 @@ Cat id_rsa.pub >> .ssh/authorized_keys
 
 <img width="796" height="627" alt="image" src="https://github.com/user-attachments/assets/1cda96f4-4af2-43a3-a9b4-19d9b01e62e5" />
 
+<img width="799" height="625" alt="image" src="https://github.com/user-attachments/assets/6e27b49e-867a-4009-a6c0-ed6ca68c6752" />
+
+<img width="796" height="628" alt="image" src="https://github.com/user-attachments/assets/ed0abf23-2df1-4fd8-94e4-f6d4999e7138" />
+
+<img width="452" height="372" alt="image" src="https://github.com/user-attachments/assets/b78c475f-d5bb-4b97-be6d-42171d0c45d9" />
+
+<img width="731" height="677" alt="image" src="https://github.com/user-attachments/assets/a58062df-a087-4914-93ad-b70a3c872392" />
+
+### Busca OpenSSH i prem "afegir"
+
+<img width="541" height="628" alt="image" src="https://github.com/user-attachments/assets/afebcb63-a467-4029-8589-320dedb5d7a1" />
+
 
 
