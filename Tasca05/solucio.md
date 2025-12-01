@@ -198,3 +198,22 @@ ssh usuari@IP del hostonly de windwos
 ```
 
 <img width="528" height="105" alt="image" src="https://github.com/user-attachments/assets/15cb5387-dbc2-4e2d-9ff8-40e3d4a924cc" />
+
+## Creació d'un Túnel
+
+### Torna a powershell de windows per començara crear el túnel
+
+``` bash
+Ssh -D 9876 usuari@192.168.56.102
+```
+<img width="639" height="542" alt="image" src="https://github.com/user-attachments/assets/03ebcf5f-d25c-4189-a6b3-adf9c5e04bc6" />
+
+### Ara configura el túnel amb proxy, entra a  "Panel de control - Redes e Internet"
+
+<img width="776" height="590" alt="image" src="https://github.com/user-attachments/assets/c8ad5380-2f1d-4c1f-8726-0c77e4bdc763" />
+
+<img width="778" height="593" alt="image" src="https://github.com/user-attachments/assets/0fe28cec-1496-4552-810c-51db06530002" />
+
+### Entra a "Conexiones - Configuración de LAN"
+
+<img width="375" height="336" alt="image" src="https://github.com/user-attachments/assets/c75a93dd-c70c-4b51-9f60-aa807bb06562" />
