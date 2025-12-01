@@ -153,5 +153,48 @@ Cat id_rsa.pub >> .ssh/authorized_keys
 
 <img width="541" height="628" alt="image" src="https://github.com/user-attachments/assets/afebcb63-a467-4029-8589-320dedb5d7a1" />
 
+### Ara apaga el firewall a dins de "Seguridad de windows - Firewall i protección de red" 
+
+<img width="801" height="631" alt="image" src="https://github.com/user-attachments/assets/86c94756-69dd-4e1c-9c25-3ce0767cd28d" />
+
+<img width="797" height="626" alt="image" src="https://github.com/user-attachments/assets/170c7b77-6419-46d3-a825-81c77b1e15c5" />
+
+<img width="798" height="625" alt="image" src="https://github.com/user-attachments/assets/46c572a6-f2ed-4a71-abe3-03f844dd1302" />
+
+### Ara entra a powershell per amb administrador i activa el ssh
+
+<img width="770" height="662" alt="image" src="https://github.com/user-attachments/assets/a6aead29-1103-4bb5-a2d1-7400297f1bcf" />
+<img width="352" height="71" alt="image" src="https://github.com/user-attachments/assets/e466a91c-50d8-4a9b-be49-6f48b97b6916" />
 
 
+### Ara fes que cada cop que inicies la maquina, tambue s'encéngui el servei
+
+``` bash
+Set-Service -Name sshd -StartupType "Automatic"
+```
+<img width="548" height="60" alt="image" src="https://github.com/user-attachments/assets/1abb8b68-5c27-4efa-8db2-c04957fd63c1" />
+
+### Fes un "Ipconfig" per veure que te la interficie de hostonly que l'utilitzaras per conectar-te en la maquina virtual de Ubuntu
+
+``` bash
+ipconfig
+```
+
+<img width="870" height="556" alt="image" src="https://github.com/user-attachments/assets/b8cd1f8b-2d1a-4f5e-9b63-eabe67f7d854" />
+
+### Ara fes un ping amb la ip del hostonly de la maquina de windows per veure si les màquines es poden comunicar
+
+``` bash
+ping "IP"
+
+```
+
+<img width="507" height="132" alt="image" src="https://github.com/user-attachments/assets/14ed1164-0b66-4bfd-9031-aa8720ffb760" />
+
+### Ara conectat a la maquina virtual de Windows desde el ubuntu
+
+``` bash
+ssh usuari@IP del hostonly de windwos
+```
+
+<img width="528" height="105" alt="image" src="https://github.com/user-attachments/assets/15cb5387-dbc2-4e2d-9ff8-40e3d4a924cc" />
