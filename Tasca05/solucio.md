@@ -216,4 +216,12 @@ Ssh -D 9876 usuari@192.168.56.102
 
 ### Entra a "Conexiones - Configuración de LAN"
 
+<img width="424" height="578" alt="image" src="https://github.com/user-attachments/assets/10e9cd40-eb19-4d09-8597-6c10dfeeeb2e" />
+
 <img width="375" height="336" alt="image" src="https://github.com/user-attachments/assets/c75a93dd-c70c-4b51-9f60-aa807bb06562" />
+
+### Canvia com surt a la captura de pantalla i prem "Aceptar"
+
+<img width="391" height="428" alt="image" src="https://github.com/user-attachments/assets/98907f7a-5b77-4bff-920b-4d2bda72feba" />
+
+
