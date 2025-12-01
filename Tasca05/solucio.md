@@ -98,8 +98,48 @@ ssh-keygen -t rsa
 
 ### Mira si tens els arxius que es necessiten
 
+### Abans de mirar els larxius, entra al teu usuari utilitzant cd:
+
+``` bash
+cd Users\pau
+```
+
 ``` bash
 ls .\.ssh\
 ```
 <img width="642" height="294" alt="image" src="https://github.com/user-attachments/assets/22886193-8363-4b4d-bf22-d17b7706f95b" />
+
+### Ara copia el .pub de la Maquina virtual de ubuntu i copiala al Windows utilitzant aquesta comanda
+
+``` bash
+scp.\.ssh\id_rsa.pub usuari@IP:/home/usuari
+```
+<img width="958" height="132" alt="image" src="https://github.com/user-attachments/assets/3bc07478-72fd-4589-b4c8-9f207d7b5559" />
+
+<img width="790" height="299" alt="image" src="https://github.com/user-attachments/assets/01fc5955-88b1-4e20-950e-2356ed075a40" />
+
+### Torna a la mauqina virtual de ubuntu per crear un arxiu a la carpeta ssh
+
+``` bash
+Touch .ssh/authorized_keys
+```
+
+<img width="361" height="56" alt="image" src="https://github.com/user-attachments/assets/228a22b7-9165-4564-a225-330bcffd1658" />
+
+### Ara copia la clau id_rsa.pub dins del arxiu creat
+
+``` bash
+Cat id_rsa.pub >> .ssh/authorized_keys
+```
+<img width="429" height="50" alt="image" src="https://github.com/user-attachments/assets/350d7b39-6a7c-4515-873f-9bb2f5984652" />
+
+### Torna a la maquina virtual de Windows i fes un ssh
+
+<img width="753" height="643" alt="image" src="https://github.com/user-attachments/assets/d7ee9de2-06d8-4d4d-9947-7efa0b6912fe" />
+
+### Ara ves a l'apartat de "Sistema - Características opcionales - Ver características"
+
+<img width="796" height="627" alt="image" src="https://github.com/user-attachments/assets/1cda96f4-4af2-43a3-a9b4-19d9b01e62e5" />
+
+
 
