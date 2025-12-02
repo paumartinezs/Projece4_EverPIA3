@@ -82,3 +82,5 @@ El grup ha de generar un document amb els següents punts resolts:
 - **INCIBE:** Copias de seguridad. Una guía de aproximación para el empresario.
 - **Xataka:** Backup 3 - 2 - 1, el método definitivo para mantener a salvo tus datos. [YouTube]. Setembre 2017. Disponible a:  
 
+a l'arxiu [solucio.md](solucio.md) esta la solució de la tasca 01
+
