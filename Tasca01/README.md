@@ -82,9 +82,11 @@ El grup ha de generar un document amb els següents punts resolts:
 - **INCIBE:** Copias de seguridad. Una guía de aproximación para el empresario.
 - **Xataka:** Backup 3 - 2 - 1, el método definitivo para mantener a salvo tus datos. [YouTube]. Setembre 2017. Disponible a:  
 
-[Treball individual](Fase1.md)
-[Treball en parelles](Fase2.md)
-[Treball en grup](Fase3.md)
+---
+
+ - [Treball individual](Fase1.md)
+ - [Treball en parelles](Fase2.md)
+ - [Treball en grup](Fase3.md)
 
 
 
