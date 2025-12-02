@@ -18,4 +18,6 @@ Treballant per parelles:
 | **Mitjà 1 (Local)** | **NAS local** | Ofereix alta velocitat per complir un RTO objectiu de menys de 4 hores. Ideal per a còpies diàries i setmanals, permetent una restauració immediata. |
 | **Mitjà 2 (Extern)** | **Cloud Storage** Emmagatzematge Objecte | Garanteix l'emmagatzematge fora de lloc per complir la regla 3-2-1. Ideal per a còpies mensuals i retenció prolongada. Protecció davant de desastres físics. |
 
+[Torna a l'enunciat](README.md)
 
+[Torna a la pàgina principal](../REAMDE.md)
