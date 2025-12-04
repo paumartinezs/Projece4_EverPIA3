@@ -89,3 +89,5 @@ sudo apt install nfs-kernel-server
 <img width="959" height="797" alt="image" src="https://github.com/user-attachments/assets/d84a6d9c-bad4-4749-bfb0-c81ab190d7bd" />
 
 # Fase 3: L'Exportació d'Administració (El Dilema del root_squash)
+
+
