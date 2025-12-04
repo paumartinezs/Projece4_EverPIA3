@@ -38,3 +38,26 @@ sudo useradd -G admins -m -s /bin/bash admin01
 
 <img width="565" height="70" alt="image" src="https://github.com/user-attachments/assets/48b16f5e-e43c-4f1d-8b98-4a4134bb948c" />
 
+### Crea el directori per als projectes de desenvolupament en la ruta /srv/nfs/dev_projects
+
+``` bash
+sudo mkdir /srv/nfs/dev_projectes -p
+```
+<img width="464" height="69" alt="image" src="https://github.com/user-attachments/assets/d8fe1155-6183-483f-93ba-01942035b653" />
+
+### Crea un directori per a les eines d'administració
+
+``` bash
+sudo mkdir /srv/nfs/admin_tools
+```
+<img width="392" height="46" alt="image" src="https://github.com/user-attachments/assets/7ecdd0a8-3b6d-4c30-b51c-bfffe91bd255" />
+
+### Ara canvia els permisos de les carpetes amb el chmod
+
+### Per canviar la propietat de la carpeta
+
+``` bash
+sudo chown root:devs /srv/nfs/dev_projects
+
+sudo chown root:admin /srv/nfs/admin_tools
+```
