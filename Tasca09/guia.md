@@ -2,6 +2,8 @@
 
 Abans de iniciar la maquina, afageix una segona interficie a les dues maquines de host-only per la comunicació entre elles
 
+# Fase 2: Preparació del servidor
+
 ### En primer lloc utiltiza aquesta comanda per actualitzar els paquets
 
 ``` bash
@@ -77,4 +79,13 @@ sudo chmod 770 /srv/nfs/admin_tools
 ```
 <img width="439" height="54" alt="image" src="https://github.com/user-attachments/assets/0e8065f9-6d98-44a0-bd05-8cd4751557f4" />
 
-### Ara crea els grups i els usuaris desde el client en el meu cas en el Zorin OS
+### Instal·la el servidor de NFS amb aquesta comanda 
+
+``` bash
+sudo apt install nfs-kernel-server
+```
+<img width="657" height="257" alt="image" src="https://github.com/user-attachments/assets/72a7b32b-e8b4-4766-88c6-9b6354c9d8da" />
+
+<img width="959" height="797" alt="image" src="https://github.com/user-attachments/assets/d84a6d9c-bad4-4749-bfb0-c81ab190d7bd" />
+
+# Fase 3: L'Exportació d'Administració (El Dilema del root_squash)
