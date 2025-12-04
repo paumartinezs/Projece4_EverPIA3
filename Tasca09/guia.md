@@ -65,3 +65,16 @@ sudo chown root:admins /srv/nfs/admin_tools
 
 <img width="488" height="46" alt="image" src="https://github.com/user-attachments/assets/0b69fba5-619c-4a09-a696-74751d299889" />
 
+### Asigna els permisos a les carpetes
+
+``` bash
+sudo chmod 770 /srv/nfs/dev_projects
+```
+<img width="460" height="67" alt="image" src="https://github.com/user-attachments/assets/b28d2094-e687-42e3-93ec-0f34c2515ccc" />
+
+``` bash
+sudo chmod 770 /srv/nfs/admin_tools
+```
+<img width="439" height="54" alt="image" src="https://github.com/user-attachments/assets/0e8065f9-6d98-44a0-bd05-8cd4751557f4" />
+
+### Ara crea els grups i els usuaris desde el client
