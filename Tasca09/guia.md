@@ -77,4 +77,4 @@ sudo chmod 770 /srv/nfs/admin_tools
 ```
 <img width="439" height="54" alt="image" src="https://github.com/user-attachments/assets/0e8065f9-6d98-44a0-bd05-8cd4751557f4" />
 
-### Ara crea els grups i els usuaris desde el client
+### Ara crea els grups i els usuaris desde el client en el meu cas en el Zorin OS
