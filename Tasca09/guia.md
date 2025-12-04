@@ -1,1 +1,1 @@
-
+# Guia servidors fitxers linux
