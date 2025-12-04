@@ -36,3 +36,5 @@ sudo useradd -G admins -m -s /bin/bash admin01
 ```
 <img width="534" height="56" alt="image" src="https://github.com/user-attachments/assets/459f2518-a330-4b00-84c6-0fb8da1445f9" />
 
+<img width="565" height="70" alt="image" src="https://github.com/user-attachments/assets/48b16f5e-e43c-4f1d-8b98-4a4134bb948c" />
+
