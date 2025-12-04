@@ -104,3 +104,12 @@
 ### Ara faras un backup que anira directament al drive cada dia a les 18:00
 
 <img width="789" height="612" alt="image" src="https://github.com/user-attachments/assets/0eee3151-49f6-4ec0-9b18-b1023c6b7201" />
+
+### Prem "Submit"
+
+<img width="698" height="599" alt="image" src="https://github.com/user-attachments/assets/4fcbb3b5-fc32-49f4-a258-35c394ea6478" />
+
+### Si ho has fet igual que la guia, t'hauria de sortir de aquesta manera.
+
+<img width="1017" height="716" alt="image" src="https://github.com/user-attachments/assets/283ff545-d60f-47c0-b7be-f3910d465988" />
+
