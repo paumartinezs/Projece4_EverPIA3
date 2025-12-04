@@ -56,3 +56,51 @@
 ### Afegeix una contrasenya 
 
 <img width="493" height="468" alt="image" src="https://github.com/user-attachments/assets/b3d359fc-129a-44e7-a87f-cd9a4be81cbd" />
+
+### Comença a crear las copies de seguretat
+
+<img width="1022" height="584" alt="image" src="https://github.com/user-attachments/assets/25db11ae-a13b-45d5-8989-2e77dcab7852" />
+
+### Prem la opció marcada en la captura de pantalla
+
+<img width="1008" height="707" alt="image" src="https://github.com/user-attachments/assets/ac628872-bb7f-4123-be51-565dbf656488" />
+
+### Posal·li un nom i una contrasenya al backup i prem "continue"
+
+<img width="767" height="610" alt="image" src="https://github.com/user-attachments/assets/1601a12d-fc0c-4bbc-8277-538408d6e1fb" />
+
+### Prem "Chose"
+
+<img width="681" height="601" alt="image" src="https://github.com/user-attachments/assets/380117f6-afb9-4fa7-b2c1-ff936ea59e45" />
+
+### Escolleix el disc dur de 10 GB i prem continuar
+
+<img width="699" height="612" alt="image" src="https://github.com/user-attachments/assets/04c8becf-c8a0-4037-b94d-1ac2e220a0c9" />
+
+### Skip
+
+<img width="350" height="129" alt="image" src="https://github.com/user-attachments/assets/3534678f-db9d-4663-bf75-17b0fe32ee66" />
+
+### Prem home
+
+<img width="776" height="599" alt="image" src="https://github.com/user-attachments/assets/f4f03931-88d3-4ceb-ba12-060b38d53113" />
+
+### Cada hora es repitar les copies de seguretat per al disc secundari
+
+<img width="777" height="612" alt="image" src="https://github.com/user-attachments/assets/afe579ba-7b99-40d4-a7a2-4c480f06526a" />
+
+### Prem submit
+
+<img width="776" height="610" alt="image" src="https://github.com/user-attachments/assets/e475a724-1379-4024-9d84-5308b3f9a31d" />
+
+### Crea un altre còpia de seguretat
+
+<img width="666" height="615" alt="image" src="https://github.com/user-attachments/assets/50e6e58a-2984-4acc-a411-b7557bc0ce58" />
+
+### Posa "Google Drive"
+
+<img width="714" height="609" alt="image" src="https://github.com/user-attachments/assets/31214886-ea74-4ba5-8df7-ae9ee93c4636" />
+
+### Ara faras un backup que anira directament al drive cada dia a les 18:00
+
+<img width="789" height="612" alt="image" src="https://github.com/user-attachments/assets/0eee3151-49f6-4ec0-9b18-b1023c6b7201" />
