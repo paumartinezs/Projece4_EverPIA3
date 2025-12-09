@@ -94,6 +94,11 @@
 
 <img width="776" height="610" alt="image" src="https://github.com/user-attachments/assets/e475a724-1379-4024-9d84-5308b3f9a31d" />
 
+### Crea un arxiu dintre de documents per despres fer la prova de restauració
+
+<img width="776" height="586" alt="image" src="https://github.com/user-attachments/assets/fd1ba9da-89f5-47e1-b6d6-9781135d80cb" />
+
+
 ### Crea un altre còpia de seguretat
 
 <img width="666" height="615" alt="image" src="https://github.com/user-attachments/assets/50e6e58a-2984-4acc-a411-b7557bc0ce58" />
@@ -114,4 +119,29 @@
 
 <img width="1017" height="716" alt="image" src="https://github.com/user-attachments/assets/283ff545-d60f-47c0-b7be-f3910d465988" />
 
+### Ara fes la prova de la restauració 
+
+### Borra l'arxiu de prova
+
+<img width="1017" height="766" alt="image" src="https://github.com/user-attachments/assets/e0253f56-6285-45b8-82fd-5d188e45f453" />
+
+<img width="1022" height="760" alt="image" src="https://github.com/user-attachments/assets/43cb5238-82db-4c56-98ba-8eabb60f45ca" />
+
+### Ves al apartat de Restore i prem "Restore" a la primera backup
+
+<img width="1017" height="763" alt="image" src="https://github.com/user-attachments/assets/7d3131b3-b5cd-4e33-bbaa-b32ff1be6121" />
+
+### Escolleix el mes recent 
+
+<img width="1012" height="756" alt="image" src="https://github.com/user-attachments/assets/8ea281ea-856e-416b-be4c-d74ab28e6b00" />
+
+### Prem submit
+
+<img width="1010" height="708" alt="image" src="https://github.com/user-attachments/assets/e08e3ddc-2928-400d-b0be-048f6159fc83" />
+
+### Si et funciona t'hauria de sortir "Restore Complete"
+
+<img width="992" height="702" alt="image" src="https://github.com/user-attachments/assets/363b2af9-5d71-4f8d-a76b-327521ecfe8e" />
+
+### Ara fes la restauració des de la copia de seguretat que esta guardada al cloud
 
