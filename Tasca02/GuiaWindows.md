@@ -81,9 +81,10 @@
 
 <img width="350" height="129" alt="image" src="https://github.com/user-attachments/assets/3534678f-db9d-4663-bf75-17b0fe32ee66" />
 
-### Prem home
+### Prem "My documents"
 
-<img width="776" height="599" alt="image" src="https://github.com/user-attachments/assets/f4f03931-88d3-4ceb-ba12-060b38d53113" />
+<img width="1021" height="638" alt="image" src="https://github.com/user-attachments/assets/371deecb-79c6-4512-8fa9-21fd29871ead" />
+
 
 ### Cada hora es repitar les copies de seguretat per al disc secundari
 
