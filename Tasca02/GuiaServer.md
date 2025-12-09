@@ -1,18 +1,18 @@
 
 ## Part 2: Còpia seguretat servidor Linux
 
-### En primer lloc instal·la la maquina virtual de zorin 
+### En primer lloc instal·la la maquina virtual de Ubuntu server
 
-<img width="928" height="658" alt="image" src="https://github.com/user-attachments/assets/786418bf-316a-4467-acbd-582d6736ebbf" />
+### Selecciona el teu idioma 
 
-### Escolleix el teu idioma
+<img width="1257" height="785" alt="image" src="https://github.com/user-attachments/assets/f5d84886-b6b7-42ea-b5c4-658fd4f2348b" />
 
-<img width="933" height="645" alt="image" src="https://github.com/user-attachments/assets/2185bbe3-ac0f-454e-b07c-02e4860812ab" />
+### Prem "Hecho"
 
-### Prem "install Now"
+<img width="1065" height="834" alt="image" src="https://github.com/user-attachments/assets/7ad0f2be-ee0e-46d8-a62e-f9ca1685892f" />
 
-<img width="934" height="642" alt="image" src="https://github.com/user-attachments/assets/333a3276-d6c6-4e6d-9904-037e462a8f71" />
+<img width="1062" height="814" alt="image" src="https://github.com/user-attachments/assets/8669798c-85c1-42f5-9560-8dfca6695ea9" />
 
-### Afegeix una contrasenya 
+<img width="1070" height="826" alt="image" src="https://github.com/user-attachments/assets/c63ec640-afd6-4840-9e3e-2c8a7d32bdb7" />
 
-<img width="927" height="638" alt="image" src="https://github.com/user-attachments/assets/2d8a1512-32e9-4363-aa02-6c1dd37bb758" />
+<img width="1063" height="803" alt="image" src="https://github.com/user-attachments/assets/caff5ae8-7d62-45a2-b007-255a64942fa7" />
