@@ -65,4 +65,4 @@ Un aspecte molt important a nivell de seguretat és que la unitat de backup ha d
 ---
 
 - [Guia del server](GuiaServer.md)
-- [Guia del Windows](GuiaWindowos.md)
+- [Guia del Windows](GuiaWindows.md)
