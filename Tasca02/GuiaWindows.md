@@ -157,13 +157,26 @@
 
 <img width="448" height="660" alt="image" src="https://github.com/user-attachments/assets/e49feaca-af5e-4808-b45d-aba8fa10cd52" />
 
-### Prem "Continue"
+### Si has conectat el teu compte de google drive, t'haruia de sortir la contrasenya del "AuthID" i prem "continue"
 
-<img width="1011" height="703" alt="image" src="https://github.com/user-attachments/assets/b5342566-6744-41e1-90bb-349ea852b0fe" />
+<img width="1010" height="709" alt="image" src="https://github.com/user-attachments/assets/1facdfd4-d8f5-46cf-8698-16dfaa512461" />
 
 ### Selecciona "My documents" i prem "continue"
 
 <img width="1018" height="712" alt="image" src="https://github.com/user-attachments/assets/e681fcbf-5ecf-4456-9ef1-ab102a6e7a92" />
+
+### Prem "Start"
+
+<img width="968" height="559" alt="image" src="https://github.com/user-attachments/assets/2fcff2ff-f9da-4530-9eea-b0a9d53779da" />
+
+### Ara ves al google drive i t'haruia de sortir una carpeta que es diu documents 
+
+<img width="1016" height="547" alt="image" src="https://github.com/user-attachments/assets/911da1ad-883e-4421-a1e7-da836f5b267f" />
+
+### I dintre estarien els arxius de la copia de seguretat
+
+<img width="1015" height="584" alt="image" src="https://github.com/user-attachments/assets/95d379fc-3778-4d34-89fb-1671151733b0" />
+
 
 
 
