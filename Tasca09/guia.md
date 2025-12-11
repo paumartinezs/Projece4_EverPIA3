@@ -213,4 +213,3 @@ mount -t nfs 192.168.56.101:/srv/nfs/admin_tools /mnt/admin_tools
 ```
 <img width="954" height="1027" alt="image" src="https://github.com/user-attachments/assets/9a42f7b2-ebbb-4478-b6c5-03a3087c4348" />
 
-
