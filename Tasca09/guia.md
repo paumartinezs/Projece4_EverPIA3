@@ -131,11 +131,19 @@ exportfs -u
 ### Pots veure des de quin port treballa utilitzant aquesta comanda
 
 ``` bash
-rpcinfo -p 192.168.56.113
+rpcinfo -p 192.168.56.114
 ```
 
 <img width="411" height="505" alt="image" src="https://github.com/user-attachments/assets/81090af9-a9f5-453a-ae0e-19e5e7c8be9b" />
 
+
+### Conectat al servidor utilitzant aquesta comanda
+
+``` bash
+showmount -e 192.168.56.114
+```
+
+<img width="426" height="55" alt="image" src="https://github.com/user-attachments/assets/566c4d26-8a1a-403e-8ab0-611a8a46d8f6" />
 
 # Fase 3: L'Exportació d'Administració (El Dilema del root_squash)
 
@@ -146,11 +154,63 @@ rpcinfo -p 192.168.56.113
 ### Una vegada creada la carpeta, munta el recurs utilitzant la mount amb aquesta comanda
 
 ``` bash
-mount -t nfs 192.168.56.101:/srv/nfs/admin_tools /mnt/admin_tools
+mount -t nfs 192.168.56.114:/srv/nfs/admin_tools /mnt/admin_tools
 ```
 <img width="645" height="92" alt="image" src="https://github.com/user-attachments/assets/7576a61c-396d-47e6-b2e0-1485b8015cb7" />
 
-
-
-
 <img width="543" height="35" alt="image" src="https://github.com/user-attachments/assets/837a96eb-d843-47f2-8707-fd4df0fa4ddb" />
+
+# Prova 2 (solució)
+
+### Edita l'arxiu de /etc/exports i afageix aquestes dues lines:
+
+``` bash
+
+/srv/nfs/admin_tools *(rw,sync,no_subtree_check,no_root_squash)
+/srv/nfs/dev_projects *(rw,sync,no_subtree_check)
+```
+
+<img width="954" height="1030" alt="image" src="https://github.com/user-attachments/assets/07ebb456-efd2-45ac-95f2-08703c93b183" />
+
+### Reincia el servei per guardar els canvis
+
+``` bash
+systemctl restart nfs-kernel-server
+```
+
+<img width="626" height="197" alt="image" src="https://github.com/user-attachments/assets/01a72f3c-1f79-49ec-a296-fe160d239435" />
+
+### Desmonta i torna a muntar el recurs amb aquestes comandes:
+
+### Per desmontar
+
+``` bash
+umount -t nfs 192.168.56.114:/srv/nfs/admin_tools /mnt/admin_tools
+```
+
+<img width="643" height="165" alt="image" src="https://github.com/user-attachments/assets/a01ae12c-6ef4-4973-a99e-8707174213b4" />
+
+### Per muntar
+
+``` bash
+mount -t nfs 192.168.56.101:/srv/nfs/admin_tools /mnt/admin_tools
+```
+<img width="640" height="112" alt="image" src="https://github.com/user-attachments/assets/c35c1a19-2822-41c2-af2a-e5bddb5f648e" />
+
+### Ara crea un nou arxiu anomenat "File2"
+
+<img width="533" height="50" alt="image" src="https://github.com/user-attachments/assets/c5cc8cfa-6e1a-4a5b-a9e8-22e2dff384bf" />
+
+<img width="877" height="486" alt="image" src="https://github.com/user-attachments/assets/ccc2d3d7-c1e3-4368-b816-e81bb1cb3a3b" />
+
+# Fase 4: L'Exportació de Desenvolupament
+
+### Modifica una altre vegada l'arxiu /etc/exports, borra la linia de "/srv/nfs/dev_pjects" i afegeix aquestes dues:
+
+``` bash
+/srv/nfs/dev_projects 192.168.56.0/24(rw,sync,no_subtree_check)
+/srv/nfs/dev_projects 192.168.56.140(ro,sync,no_subtree_check)
+```
+<img width="954" height="1027" alt="image" src="https://github.com/user-attachments/assets/9a42f7b2-ebbb-4478-b6c5-03a3087c4348" />
+
+
