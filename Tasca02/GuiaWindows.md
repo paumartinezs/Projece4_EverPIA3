@@ -57,7 +57,7 @@
 
 <img width="493" height="468" alt="image" src="https://github.com/user-attachments/assets/b3d359fc-129a-44e7-a87f-cd9a4be81cbd" />
 
-### Comença a crear las copies de seguretat
+### Comença a crear las còpies de seguretat
 
 <img width="1022" height="584" alt="image" src="https://github.com/user-attachments/assets/25db11ae-a13b-45d5-8989-2e77dcab7852" />
 
@@ -157,7 +157,7 @@
 
 <img width="448" height="660" alt="image" src="https://github.com/user-attachments/assets/e49feaca-af5e-4808-b45d-aba8fa10cd52" />
 
-### Si has conectat el teu compte de google drive, t'haruia de sortir la contrasenya del "AuthID" i prem "continue"
+### Si has conectat el teu compte de google drive, t'hauria de sortir la contrasenya del "AuthID" i prem "continue"
 
 <img width="1014" height="711" alt="image" src="https://github.com/user-attachments/assets/b128fb2b-f64d-4731-ab69-dcd642492338" />
 
