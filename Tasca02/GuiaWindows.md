@@ -178,7 +178,8 @@
 <img width="1015" height="584" alt="image" src="https://github.com/user-attachments/assets/95d379fc-3778-4d34-89fb-1671151733b0" />
 
 
-[Torna a l'enunciat](README.md)
+ - [Torna a l'enunciat](README.md)
+ - [Torna a la pàgina principal](..\README.md)
 
 
 
