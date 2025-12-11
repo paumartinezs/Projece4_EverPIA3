@@ -88,6 +88,69 @@ sudo apt install nfs-kernel-server
 
 <img width="959" height="797" alt="image" src="https://github.com/user-attachments/assets/d84a6d9c-bad4-4749-bfb0-c81ab190d7bd" />
 
+### Comprova el estat del nfs utilitzant aquesta comanda
+
+``` bash
+systemctl status nfs-kernel-server
+```
+
+<img width="800" height="254" alt="image" src="https://github.com/user-attachments/assets/8ff820bc-f983-4068-b60f-c6b999e738a4" />
+
+
+### Obra l'arxiu de /etc/exports
+
+``` bash
+sudo nano /etc/exports
+
+```
+
+### I introdueix aquesta linia abaix de tot
+
+``` bash
+/srv/nfs *(rw,sync,no_subtree_check)
+```
+
+<img width="790" height="277" alt="image" src="https://github.com/user-attachments/assets/53669a06-ca31-4c95-9073-e2e05cacf37b" />
+
+### Aplica els canvis reinciant el servei
+
+``` bash
+systemctl restart nfs-kernel-server
+```
+
+<img width="584" height="133" alt="image" src="https://github.com/user-attachments/assets/475e8fbd-a2cf-4354-a9ef-3086f1b33623" />
+
+### Utilitza aquesta comanda per veure els arxius que es poden exportar
+
+``` bash
+exportfs -u
+```
+
+<img width="385" height="49" alt="image" src="https://github.com/user-attachments/assets/51da6513-cf68-48c5-942a-6629b082dc55" />
+
+### Pots veure des de quin port treballa utilitzant aquesta comanda
+
+``` bash
+rpcinfo -p 192.168.56.113
+```
+
+<img width="411" height="505" alt="image" src="https://github.com/user-attachments/assets/81090af9-a9f5-453a-ae0e-19e5e7c8be9b" />
+
+
 # Fase 3: L'Exportació d'Administració (El Dilema del root_squash)
 
+### Crea la carpeta /mnt/admin_tools
 
+<img width="471" height="40" alt="image" src="https://github.com/user-attachments/assets/89b7a392-7932-47a9-b768-bdcf2569b480" />
+
+### Una vegada creada la carpeta, munta el recurs utilitzant la mount amb aquesta comanda
+
+``` bash
+mount -t nfs 192.168.56.101:/srv/nfs/admin_tools /mnt/admin_tools
+```
+<img width="645" height="92" alt="image" src="https://github.com/user-attachments/assets/7576a61c-396d-47e6-b2e0-1485b8015cb7" />
+
+
+
+
+<img width="543" height="35" alt="image" src="https://github.com/user-attachments/assets/837a96eb-d843-47f2-8707-fd4df0fa4ddb" />
