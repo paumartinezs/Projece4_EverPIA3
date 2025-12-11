@@ -151,7 +151,7 @@
 
 ### Afegeix un nom perque es crei una carpeta al google drive (en el meu cas he ficat "Documents") i prem "AuthID"
 
-<img width="1019" height="697" alt="image" src="https://github.com/user-attachments/assets/02e503e5-eb08-40d8-a0cd-f6dc79550383" />
+<img width="1017" height="712" alt="image" src="https://github.com/user-attachments/assets/c8147824-defe-4604-aee8-7d7da2df3db6" />
 
 ### Conecta el teu compte de google drive
 
@@ -159,7 +159,7 @@
 
 ### Si has conectat el teu compte de google drive, t'haruia de sortir la contrasenya del "AuthID" i prem "continue"
 
-<img width="1010" height="709" alt="image" src="https://github.com/user-attachments/assets/1facdfd4-d8f5-46cf-8698-16dfaa512461" />
+<img width="1014" height="711" alt="image" src="https://github.com/user-attachments/assets/b128fb2b-f64d-4731-ab69-dcd642492338" />
 
 ### Selecciona "My documents" i prem "continue"
 
@@ -177,6 +177,8 @@
 
 <img width="1015" height="584" alt="image" src="https://github.com/user-attachments/assets/95d379fc-3778-4d34-89fb-1671151733b0" />
 
+
+[Torna a l'enunciat](README.md)
 
 
 
