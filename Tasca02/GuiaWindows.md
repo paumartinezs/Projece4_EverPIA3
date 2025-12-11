@@ -149,9 +149,9 @@
 
 <img width="745" height="173" alt="image" src="https://github.com/user-attachments/assets/85150943-ba10-4507-99ef-d4f713abae14" />
 
-### Afegeix la ruta de la carpeta del google drive, posa una contrasenya i prem "AuthID"
+### Afegeix un nom perque es crei una carpeta al google drive (en el meu cas he ficat "Documents") i prem "AuthID"
 
-<img width="1018" height="701" alt="image" src="https://github.com/user-attachments/assets/339a99c6-0070-4f38-9f1d-e9bad6b08452" />
+<img width="1019" height="697" alt="image" src="https://github.com/user-attachments/assets/02e503e5-eb08-40d8-a0cd-f6dc79550383" />
 
 ### Conecta el teu compte de google drive
 
