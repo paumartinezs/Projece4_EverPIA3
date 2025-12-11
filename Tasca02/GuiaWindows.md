@@ -145,3 +145,25 @@
 
 ### Ara fes la restauració des de la copia de seguretat que esta guardada al cloud
 
+### En primer lloc edita la segona copia de seguretat (cloud)
+
+<img width="745" height="173" alt="image" src="https://github.com/user-attachments/assets/85150943-ba10-4507-99ef-d4f713abae14" />
+
+### Afegeix la ruta de la carpeta del google drive, posa una contrasenya i prem "AuthID"
+
+<img width="1018" height="701" alt="image" src="https://github.com/user-attachments/assets/339a99c6-0070-4f38-9f1d-e9bad6b08452" />
+
+### Conecta el teu compte de google drive
+
+<img width="448" height="660" alt="image" src="https://github.com/user-attachments/assets/e49feaca-af5e-4808-b45d-aba8fa10cd52" />
+
+### Prem "Continue"
+
+<img width="1011" height="703" alt="image" src="https://github.com/user-attachments/assets/b5342566-6744-41e1-90bb-349ea852b0fe" />
+
+### Selecciona "My documents" i prem "continue"
+
+<img width="1018" height="712" alt="image" src="https://github.com/user-attachments/assets/e681fcbf-5ecf-4456-9ef1-ab102a6e7a92" />
+
+
+
