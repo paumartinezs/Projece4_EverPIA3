@@ -39,4 +39,4 @@ Penseu que el pròxim tècnic que s'incorpori dependrà directament de la vostra
 
 al arxiu [solucio.md](solucio.md) hi ha la solució de la tasca 05
 
-Torna al enunciat READ
+[Torna al enunciat](../README.md)
