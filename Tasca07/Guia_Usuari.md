@@ -19,3 +19,7 @@ https://anydesk.com/es/downloads
 ### Inicia l'aplicació
 
 <img width="1919" height="645" alt="image" src="https://github.com/user-attachments/assets/27e038e8-5cd7-4c7f-af15-ec9e1542df83" />
+
+### Si ho has fet igual que a la guia, t'hauria de sortir de aquesta manera.
+
+<img width="1435" height="770" alt="image" src="https://github.com/user-attachments/assets/b4b42dd3-755c-4e8d-a524-1996057ed25c" />
