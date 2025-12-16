@@ -40,4 +40,43 @@ sudo fdisk -l
 ```
 <img width="823" height="544" alt="image" src="https://github.com/user-attachments/assets/f7f0331a-54cd-4265-a90c-3c391a5d0c5e" />
 
+### Crea una partició
+
+``` bash
+sudo fdisk /dev/sdb
+```
+<img width="770" height="500" alt="image" src="https://github.com/user-attachments/assets/2b784087-51a7-49ee-82f8-ced12573da14" />
+
+### Com surt marcada a la captura de pantalla
+
+N = Per Crear nova partició
+P = Primari
+Prem enter = Per tenir els valors per defecte
+W = Per guardar
+
+### Comprova que s'ha crat de manera correcta amb la mateixa comanda del principi
+
+<img width="806" height="632" alt="image" src="https://github.com/user-attachments/assets/dcf47602-eafa-40bd-95c5-e319837635df" />
+
+### Un cop creada la partició, donal·li el format XFS amb la seguetn comanda
+
+``` bash
+sudo mkfs.xfs /dev/sdb1
+```
+<img width="718" height="241" alt="image" src="https://github.com/user-attachments/assets/9bbbcf90-1d28-4e77-9995-cf8111a90940" />
+
+### Crea la carpeta
+
+``` bash
+sudo mkdir -p /media/backup
+```
+<img width="388" height="52" alt="image" src="https://github.com/user-attachments/assets/9c4daeeb-2b37-488d-8e98-5973d393ba26" />
+
+### Fes el muntatge manualment mab aquesta comanda
+
+``` bash
+Sudo mount /dev/sdb1 /media/backup
+```
+<img width="473" height="42" alt="image" src="https://github.com/user-attachments/assets/a1c0e843-35f4-48e8-908e-f5b15ec10364" />
+
 
