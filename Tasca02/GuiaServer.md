@@ -40,6 +40,8 @@ sudo fdisk -l
 ```
 <img width="823" height="544" alt="image" src="https://github.com/user-attachments/assets/f7f0331a-54cd-4265-a90c-3c391a5d0c5e" />
 
+## 1. Inicialitza i formata en format xfs.
+
 ### Crea una partició
 
 ``` bash
@@ -79,4 +81,57 @@ Sudo mount /dev/sdb1 /media/backup
 ```
 <img width="473" height="42" alt="image" src="https://github.com/user-attachments/assets/a1c0e843-35f4-48e8-908e-f5b15ec10364" />
 
+## 2. Instal·lació duplicity.
 
+### Instal·la duplicity
+
+``` bash
+sudo apt install duplicity
+```
+### Prem s
+
+<img width="843" height="294" alt="image" src="https://github.com/user-attachments/assets/2f46ae5a-b55d-4185-80e6-a11d03ae7572" />
+
+<img width="946" height="980" alt="image" src="https://github.com/user-attachments/assets/4996c673-4885-470c-81f5-63c89f2af754" />
+
+### Comprova que s'ha instal·lat de manera correcta
+
+``` bash
+duplicity --version
+```
+<img width="396" height="69" alt="image" src="https://github.com/user-attachments/assets/b5185ea7-80be-4780-a30c-70107bada335" />
+
+### Crea dos usuaris que tinguin carpeta personal
+
+``` bash
+sudo useradd -m -s /bin/bash usuari2
+sudo useradd -m -s /bin/bash usuari3
+```
+<img width="472" height="65" alt="image" src="https://github.com/user-attachments/assets/6ecc14e7-6af9-4fdd-9267-a1031df44066" />
+
+### Comprova que has creat els dos usuaris correctament amb la comanda grep
+
+``` bash
+grep -E "usuari2|usuari3" /etc/passwd
+```
+<img width="502" height="84" alt="image" src="https://github.com/user-attachments/assets/73ffd21c-be49-4de6-b736-678abdb9a73a" />
+
+### Afageix·li contrasenyes als dos usuaris
+
+``` bash
+sudo passwd usuari2
+sudo passwd usuari3
+```
+<img width="468" height="178" alt="image" src="https://github.com/user-attachments/assets/82f8879b-6dbf-4ea0-8244-d8242c13f148" />
+
+### Crea 4 arxius per prova de la copia de seguretat 
+
+``` bash
+ fallocate -l 10MB arx1
+ fallocate -l 10MB arx2
+ fallocate -l 10MB arx3
+ fallocate -l 10MB arx4
+```
+### I "ls" per comprovar que s'han creat correctament
+
+<img width="360" height="144" alt="image" src="https://github.com/user-attachments/assets/102c16da-5872-44ba-9008-d09dab9e685c" />
