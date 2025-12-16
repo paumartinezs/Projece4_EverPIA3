@@ -170,3 +170,30 @@ cd /media/backup
 ```
 <img width="775" height="97" alt="image" src="https://github.com/user-attachments/assets/a8e23eb0-e32f-4a90-8524-f774e7ba3e0a" />
 
+### Comprova que s'han resturat correctament amb ls dintre del usuari en el meu cas "pau
+
+<img width="221" height="38" alt="image" src="https://github.com/user-attachments/assets/638c464e-27ad-4aa2-8abe-57ab79c1e1bf" />
+
+### Crea un altre arxiu de 4 MB
+
+``` bash
+fallocate -l 4MB arx5
+```
+<img width="423" height="86" alt="image" src="https://github.com/user-attachments/assets/ac15417a-662d-4574-835e-bce076084fe3" />
+
+### Fes una nova còpia de seguretat
+
+``` bash
+sudo duplicity /home/ file:///media/backup/
+```
+<img width="950" height="527" alt="image" src="https://github.com/user-attachments/assets/996ce476-c661-414e-884e-338ff0ae08d1" />
+
+### Desmunta la unitat del backup
+
+``` bash
+sudo umount /media/backup
+```
+
+<img width="448" height="52" alt="image" src="https://github.com/user-attachments/assets/b6dc190a-20cb-4260-b1db-f06ca364e19d" />
+
+### 
