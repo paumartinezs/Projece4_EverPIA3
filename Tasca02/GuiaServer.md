@@ -135,3 +135,38 @@ sudo passwd usuari3
 ### I "ls" per comprovar que s'han creat correctament
 
 <img width="360" height="144" alt="image" src="https://github.com/user-attachments/assets/102c16da-5872-44ba-9008-d09dab9e685c" />
+
+### Fes una copia de seguratet a tota la carpeta /home
+
+``` bash
+sudo duplicity full /home/ file:///media/backup/
+```
+
+### Afageixl·li contrasenya per desencriptar en el meu cas usuari
+
+<img width="706" height="466" alt="image" src="https://github.com/user-attachments/assets/bc836099-5d39-4780-b851-26623aa15c35" />
+
+### Comprova que s'ha creat la copia de seguretat correctament en el disc secundari utilitzant ls dintre de /media/backup
+
+<img width="590" height="98" alt="image" src="https://github.com/user-attachments/assets/1f824e42-21ea-46bf-b2ff-04f585b77b21" />
+
+### Elimiina els Arxius de prova
+
+``` bash
+rm arx*
+```
+
+<img width="217" height="49" alt="image" src="https://github.com/user-attachments/assets/f73752e4-a06f-4dbb-8d8a-9a2b1ec28480" />
+
+### Ara fes la restauració de la copia de seguretat per recuperar els arxius eliminats anteriorment
+
+``` bash
+sudo duplicity restore file:///media/backup/ /home/usuari
+```
+### Abans de fer la comanda entra a la carpeta /media/backup amb cd
+
+``` bash
+cd /media/backup
+```
+<img width="775" height="97" alt="image" src="https://github.com/user-attachments/assets/a8e23eb0-e32f-4a90-8524-f774e7ba3e0a" />
+
