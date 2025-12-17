@@ -270,3 +270,18 @@ touch /mnt/dev_projects/file11
 <img width="732" height="91" alt="image" src="https://github.com/user-attachments/assets/f7dbc267-6d70-44e3-85bc-eeaf28939ab5" />
 
 # Fase 5: Muntatge Automàtic
+
+### En primer lloc entra a l'arxiu "/etc/fstab" amb aquesta comanda
+
+``` bash
+sudo nano /etc/fstab
+```
+### Afegeix aquestes dues linies dintre del arxiu "/etc/fstab" 
+
+"Utilitza la ip de la teva màquina virtual de linux"
+
+``` bash
+192.168.56.114:/srv/nfs/admin_tools /mnt/admin_tools nfs defaults 0 0
+192.168.56.114:/srv/nfs/dev_projects /mnt/dev_projects nfs defaults 0 0
+```
+<img width="654" height="476" alt="image" src="https://github.com/user-attachments/assets/6b4d6bd2-9152-43f1-adb2-e49100b61f63" />
