@@ -285,3 +285,17 @@ sudo nano /etc/fstab
 192.168.56.114:/srv/nfs/dev_projects /mnt/dev_projects nfs defaults 0 0
 ```
 <img width="654" height="476" alt="image" src="https://github.com/user-attachments/assets/6b4d6bd2-9152-43f1-adb2-e49100b61f63" />
+
+### Per ultim reincia la màquina i comprova que els dos discos s'han creat correctament utilitzant aquesta comanda
+
+``` bash
+cd /media
+```
+``` bash
+ls -l /mnt/
+```
+<img width="454" height="186" alt="image" src="https://github.com/user-attachments/assets/6b438a32-a9fd-4bde-82e7-5960d243d83e" />
+
+
+<img width="454" height="186" alt="image" src="https://github.com/user-attachments/assets/85870b01-e9eb-4c9c-a9e9-05e3d63250a9" />
+
