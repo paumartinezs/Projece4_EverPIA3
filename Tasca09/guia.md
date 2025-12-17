@@ -252,7 +252,13 @@ ls
 
 ### Torna a canviar la ip a "192.168.56.140" per veure que no tenim permisos
 
+### Tens permisos per llegir els arxius
 
+<img width="354" height="68" alt="image" src="https://github.com/user-attachments/assets/d1edb7f0-95b4-49ec-888c-388a466319fa" />
+
+### Pero no tens permisos per crear un nou arxiu
+
+<img width="584" height="99" alt="image" src="https://github.com/user-attachments/assets/ffd0cd2e-427e-4541-a1c6-a5e653d9dc2b" />
 
 
 ### Fes login a admin01 i intenta crear un nou arxiu dintre de la carpeta "/mnt/dev_projects"
@@ -262,3 +268,5 @@ touch /mnt/dev_projects/file11
 ```
 
 <img width="732" height="91" alt="image" src="https://github.com/user-attachments/assets/f7dbc267-6d70-44e3-85bc-eeaf28939ab5" />
+
+# Fase 5: Muntatge Automàtic
