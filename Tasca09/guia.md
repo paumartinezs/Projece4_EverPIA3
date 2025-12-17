@@ -296,6 +296,3 @@ ls -l /mnt/
 ```
 <img width="454" height="186" alt="image" src="https://github.com/user-attachments/assets/6b438a32-a9fd-4bde-82e7-5960d243d83e" />
 
-
-<img width="454" height="186" alt="image" src="https://github.com/user-attachments/assets/85870b01-e9eb-4c9c-a9e9-05e3d63250a9" />
-
