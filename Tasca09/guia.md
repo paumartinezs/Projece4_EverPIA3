@@ -213,3 +213,52 @@ mount -t nfs 192.168.56.101:/srv/nfs/admin_tools /mnt/admin_tools
 ```
 <img width="954" height="1027" alt="image" src="https://github.com/user-attachments/assets/9a42f7b2-ebbb-4478-b6c5-03a3087c4348" />
 
+### Reincia el servei per guardar canvis amb aquesta comanda
+
+``` bash
+systemctl restart nfs-kernel-server
+```
+<img width="621" height="159" alt="image" src="https://github.com/user-attachments/assets/cb093438-3b41-40e8-b415-41829248fc76" />
+
+### Crea una nova carpeta amb la seguent comanda en la maquina virtual del zorin
+
+``` bash
+sudo mkdir /mnt/dev_projects
+```
+
+<img width="428" height="72" alt="image" src="https://github.com/user-attachments/assets/2c624d95-0f39-4b32-aaf6-30c4d4b976a8" />
+
+### Un cop creada la carpeta ves a la configuració de la red i canvia la ip a la de 192.168.56.128 com surt a la captura de pantalla
+
+<img width="756" height="555" alt="image" src="https://github.com/user-attachments/assets/9278dc6d-90f4-4e19-81eb-24cd81b4b46b" />
+
+### Ara entra a l'usuari dev01 i utilitza aquesta comanda per crear el arxiu file4 dintre de la carpeta /mnt/dev_projects
+
+``` bash
+touch file4
+```
+
+<img width="445" height="66" alt="image" src="https://github.com/user-attachments/assets/48431654-d1d8-4f46-abec-7389d8c3a927" />
+
+
+### Despres fes ls per veure que s'ha creat correctament
+
+``` bash
+ls
+```
+
+<img width="339" height="39" alt="image" src="https://github.com/user-attachments/assets/bad54364-0a91-45ad-a2ac-246b78e96c65" />
+
+
+### Torna a canviar la ip a "192.168.56.140" per veure que no tenim permisos
+
+
+
+
+### Fes login a admin01 i intenta crear un nou arxiu dintre de la carpeta "/mnt/dev_projects"
+
+``` bash
+touch /mnt/dev_projects/file11
+```
+
+<img width="732" height="91" alt="image" src="https://github.com/user-attachments/assets/f7dbc267-6d70-44e3-85bc-eeaf28939ab5" />
