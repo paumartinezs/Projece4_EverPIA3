@@ -296,3 +296,5 @@ ls -l /mnt/
 ```
 <img width="454" height="186" alt="image" src="https://github.com/user-attachments/assets/6b438a32-a9fd-4bde-82e7-5960d243d83e" />
 
+[Torna a l'enunciat](README.md)
+[Torna a la pàgina principal](../README.md)
