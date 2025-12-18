@@ -196,4 +196,71 @@ sudo umount /media/backup
 
 <img width="448" height="52" alt="image" src="https://github.com/user-attachments/assets/b6dc190a-20cb-4260-b1db-f06ca364e19d" />
 
-### 
+### Crea la script "fullbackup.sh" amb aquesta comanda
+
+``` bash
+!/bin/bash
+
+export PASSPHRASE="usuariusuari1234"
+
+mount /dev/sdb1 /media/backup
+
+duplicity full /home file:///media/backup/homebackup
+
+umount /media/backup
+```
+<img width="741" height="340" alt="image" src="https://github.com/user-attachments/assets/e3a449c3-bed9-407c-9d67-96c74ec7e084" />
+
+### Donem permisos d'execució utilitzant chmod
+
+``` bash
+sudo chmod +x fullbackup.sh
+```
+
+<img width="416" height="46" alt="image" src="https://github.com/user-attachments/assets/28174c8c-37c0-414a-854e-266cbc2cf459" />
+
+# 10. Programació amb CRON
+
+### Programem el cron com a root perquè s’executi diumenges a les 23:00.
+
+``` bash
+sudo crontab -e
+```
+<img width="934" height="768" alt="image" src="https://github.com/user-attachments/assets/9d5ec061-bc80-430d-b8ba-003b6f6ca6fb" />
+
+# 11. Script de còpia automàtica incremental
+
+### Crea la script "incrementalbackup.sh" per a còpies incrementals
+
+``` bash
+!/bin/bash
+
+export PASSPHRASE="usuariusuari1234"
+
+mount /dev/sdb1 /media/backup
+
+duplicity incremental /home file:///media/backup/homebackup
+
+umount /media/backup
+```
+<img width="807" height="295" alt="image" src="https://github.com/user-attachments/assets/deca9bc6-49d8-4474-96ae-2353238a7faf" />
+
+### Donem permisos d'execució
+
+``` bash
+sudo chmod +x incrementalbackup.sh
+```
+
+<img width="455" height="44" alt="image" src="https://github.com/user-attachments/assets/42945e0c-9989-4d8a-8451-8172c18918d5" />
+
+<img width="338" height="62" alt="image" src="https://github.com/user-attachments/assets/60033e40-0edd-47de-bf55-6dee409eec1c" />
+
+# 12. Programació amb CRON
+
+### Programa el cron perquè s'executi de dilluns a dissabte a les 23:00 amb aquesta comanda
+
+``` bash
+sudo crontab -e
+```
+
+<img width="952" height="637" alt="image" src="https://github.com/user-attachments/assets/a366c5fe-0eeb-4805-96f9-a1063e95030a" />
