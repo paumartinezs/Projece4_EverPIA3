@@ -38,3 +38,10 @@
 <img width="260" height="384" alt="image" src="https://github.com/user-attachments/assets/9e6a7a7c-2e5a-469a-be7a-97d835a43ca0" />
 
 ### I per acabar no desis les contrasenyes del client
+
+---
+
+ - [Torna a l'enunciat](README.md)
+
+  - [Torna a la pàgina principal](../README.md)
+
