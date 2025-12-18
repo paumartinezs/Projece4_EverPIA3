@@ -111,5 +111,7 @@ Ha de ser **extremadament simple, visual i no tècnica**.
 
 Crear un sistema de suport remot eficient, estandarditzat i fàcil d'utilitzar tant per als clients com per als tècnics
 
-[GuiaClients](GuiaClients.md)
-[GuiaInterna](GuiaInterna.md)
+---
+
+  - [GuiaClients](GuiaClients.md)
+  - [GuiaInterna](GuiaInterna.md)
