@@ -5,6 +5,10 @@ Fins ara hem vist eines per administrar servidors (**SSH, RDP, VNC**). Però la 
 
 Quan un client truca perquè *"el PDF no s'obre"*, *"li ha desaparegut una icona"* o *"la impressora no imprimeix"*, no li podem demanar que configuri una VPN o obri el port 3389 del seu router. Necessitem una **eina d'assistència remota sota demanda**: ràpida, fiable, segura i que funcioni en segons, fins i tot en xarxes restrictives.
 
+
+<img width="246" height="374" alt="image" src="https://github.com/user-attachments/assets/1361c9ea-c2af-465a-afdb-26623ba51da9" />
+
+
 ---
 
 ## Objectiu del projecte
