@@ -71,4 +71,4 @@ Això ho farem per poder assegurar una perdua de dades inferior a 4 hores
 
 [Torna a l'enunciat](README.md)
 
-[Torna a la pàgina principal](README.md)
+[Torna a la pàgina principal](../README.md)
