@@ -264,3 +264,9 @@ sudo crontab -e
 ```
 
 <img width="952" height="637" alt="image" src="https://github.com/user-attachments/assets/a366c5fe-0eeb-4805-96f9-a1063e95030a" />
+
+---
+
+[Torna a l'enunciat](README.md)
+
+[Torna a la pàgina principal](../README.md)
