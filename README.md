@@ -1,4 +1,4 @@
-# Projece4_EverPIA3
+# Projecte4_EverPIA3
 
 ##  Tasques a desenvolupar
 
