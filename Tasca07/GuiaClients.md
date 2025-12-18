@@ -22,4 +22,36 @@ https://anydesk.com/es/downloads
 
 ### Si ho has fet igual que a la guia, t'hauria de sortir de aquesta manera.
 
-<img width="1435" height="770" alt="image" src="https://github.com/user-attachments/assets/b4b42dd3-755c-4e8d-a524-1996057ed25c" />
+
+<img width="955" height="712" alt="image" src="https://github.com/user-attachments/assets/8e98d65d-3d18-4dd1-9eaa-57308652480a" />
+
+### Ves al aprtat de invitar i fica el codi que t'ha enviat el tecnic
+
+<img width="1008" height="506" alt="image" src="https://github.com/user-attachments/assets/0d8f8924-a4e0-4915-8e71-cfdd31c8ff26" />
+
+<img width="431" height="91" alt="image" src="https://github.com/user-attachments/assets/e8415b6c-aed4-44f0-885d-b7edfd6ff6dd" />
+
+
+<img width="660" height="392" alt="image" src="https://github.com/user-attachments/assets/fc9db94c-1e40-415b-be57-c75a22533f4b" />
+
+
+### Prem permitir
+
+<img width="441" height="410" alt="image" src="https://github.com/user-attachments/assets/f453eb2e-275f-4bad-87b6-232984b34c99" />
+
+
+### Un cop enviada la invitació, el tecnic ha de acceptarla 
+
+### Dona·li permisos totals al tecnic
+
+<img width="931" height="755" alt="image" src="https://github.com/user-attachments/assets/e40c6f15-964f-4459-a418-b1b4560d9b15" />
+
+### Prem permitir
+
+<img width="441" height="410" alt="image" src="https://github.com/user-attachments/assets/f453eb2e-275f-4bad-87b6-232984b34c99" />
+
+### I ja hauria de tenir permisos al tecnic.
+
+---
+
+[Torna a l'enunciat](
