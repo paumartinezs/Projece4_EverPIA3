@@ -34,6 +34,6 @@ Penseu que **un client nerviós està a l'altra banda del telèfon**, i la rapid
 
 ---
 
-### Mans a l'obra!
-``
+ - [Guia.md](guia.md)
 
+ - [Torna a la pàgina principal](../README.md)
