@@ -46,6 +46,8 @@ https://anydesk.com/es/downloads
 
 <img width="931" height="755" alt="image" src="https://github.com/user-attachments/assets/e40c6f15-964f-4459-a418-b1b4560d9b15" />
 
+<img width="288" height="59" alt="image" src="https://github.com/user-attachments/assets/02d2062e-e585-4c5b-8de3-74d5175c994d" />
+
 ### Prem permitir
 
 <img width="441" height="410" alt="image" src="https://github.com/user-attachments/assets/f453eb2e-275f-4bad-87b6-232984b34c99" />
