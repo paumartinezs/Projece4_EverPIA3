@@ -54,4 +54,5 @@ https://anydesk.com/es/downloads
 
 ---
 
-[Torna a l'enunciat](
+  - [Torna a l'enunciat](README.md)
+  - [Torna a la pàgina principal](../README.md)
