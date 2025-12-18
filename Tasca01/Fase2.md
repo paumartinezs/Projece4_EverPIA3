@@ -20,4 +20,4 @@ Treballant per parelles:
 
 [Torna a l'enunciat](README.md)
 
-[Torna a la pàgina principal](../REAMDE.md)
+[Torna a la pàgina principal](..\REAMDE.md)
